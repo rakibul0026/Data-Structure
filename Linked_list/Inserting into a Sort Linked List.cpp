@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 struct node {
@@ -6,58 +6,62 @@ struct node {
     struct node *link;
 };
 
-void findInsertionPoint(node *start, int item, node *&loc) {
-    loc = NULL; 
-    if (start == NULL) {
-        return;  
+void findInsertion_point(node *start, int item, node *&loc) {
+    loc = NULL;
+    if (start == NULL|| item <= start->data) {
+        return;
     }
-
     node *save = start;
     node *ptr = start->link;
-
-    while (ptr != NULL && item > ptr->data) {
+    while (ptr != NULL && item >=ptr->data) {
         save = ptr;
         ptr = ptr->link;
     }
-
     loc = save;
 }
 
 void insertSorted(node *&start, int item) {
     node *loc;
-    findInsertionPoint(start, item, loc);
+    findInsertion_point(start, item, loc);
 
-    node *newNode = new node;
-    newNode->data = item;
-
+    node *new_node = new node;  
+    new_node->data = item;
+    
     if (loc == NULL) {
-        newNode->link = start;
-        start = newNode;
+        new_node->link = start; 
+        start = new_node;
     } else {
-        newNode->link = loc->link;
-        loc->link = newNode;
+        new_node->link = loc->link;
+        loc->link = new_node;
     }
 }
 
-void printList(node *start) {
+void print(node *start) {
     node *temp = start;
     while (temp != NULL) {
         cout << temp->data << " -> ";
         temp = temp->link;
     }
-    cout << "NULL" << endl;
+    cout << "NULL" << endl;  
 }
 
 int main() {
     node *start = NULL;
+    int item;
 
-    insertSorted(start, 5);
-    insertSorted(start, 2);
-    insertSorted(start, 8);
     insertSorted(start, 1);
     insertSorted(start, 7);
+    insertSorted(start, 9);
+    insertSorted(start, 10);
 
-    printList(start);
+    print(start);
+
+    cout << "Enter the item to insert: ";
+    cin >> item;
+
+    insertSorted(start, item);
+
+    print(start);
 
     return 0;
 }
