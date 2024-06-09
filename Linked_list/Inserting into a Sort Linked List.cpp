@@ -1,48 +1,39 @@
 #include <iostream>
 using namespace std;
-
 struct node {
     int data;
     struct node *link;
 };
-
-void findInsertion_point(node *start, int item, node *&loc) {
-    loc = NULL;
-    if (start == NULL|| item <= start->data) {
-        return;
-    }
-    node *save = start;
-    node *ptr = start->link;
-    while (ptr != NULL && item >=ptr->data) {
-        save = ptr;
+node* findInsertion_point(node* start, int item) {
+    node* ptr = start;
+    node* loc = NULL;
+   while (ptr != NULL && ptr->data < item) {
+        loc = ptr;
         ptr = ptr->link;
     }
-    loc = save;
+   return loc;
 }
-
 void insertSorted(node *&start, int item) {
-    node *loc;
-    findInsertion_point(start, item, loc);
+    node *loc = findInsertion_point(start, item);
 
-    node *new_node = new node;  
+    node *new_node = new node;
     new_node->data = item;
-    
+
     if (loc == NULL) {
-        new_node->link = start; 
+        new_node->link = start;
         start = new_node;
     } else {
         new_node->link = loc->link;
         loc->link = new_node;
     }
 }
-
 void print(node *start) {
     node *temp = start;
     while (temp != NULL) {
         cout << temp->data << " -> ";
         temp = temp->link;
     }
-    cout << "NULL" << endl;  
+    cout << "NULL" << endl;
 }
 
 int main() {
