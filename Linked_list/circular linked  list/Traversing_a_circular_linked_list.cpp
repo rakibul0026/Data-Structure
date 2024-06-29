@@ -1,44 +1,51 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct mylist {
+typedef struct node {
     int data;
-    struct mylist *previous;
-    struct mylist *next;
+    struct node* next;
 } node;
 
-void insert(node *head, int data) {
-    while (head->next != NULL) {
-        head = head->next;
+void insert(node** s, int data) {
+    node* new_node = (node*)malloc(sizeof(node));
+    new_node->data = data;
+    
+    if (*s == NULL) {
+        new_node->next = new_node;
+        *s = new_node;
+    } else {
+        node* temp = *s;
+        while (temp->next != *s) {
+            temp = temp->next;
+        }
+        temp->next = new_node;
+        new_node->next = *s;
     }
-    head->next = (node*)malloc(sizeof(node));
-    head->next->data = data;
-    head->next->next = NULL;
-    head->next->previous = head;  
 }
 
-void traversing(node *head) {
-    node *temp = head;
-   while (temp != NULL) {
+void display(node* s) {
+    if (s == NULL) 
+        return;
+    node* temp = s;
+    do {
         printf("%d ", temp->data);
         temp = temp->next;
-    }
+    } while (temp != NULL);
     printf("\n");
 }
+
+
+
 int main() {
-    node *first = (node*)malloc(sizeof(node));
-    first->data = 0;  
-    first->next = NULL;
-    first->previous = NULL;
+    node* first = NULL;
 
-    insert(first, 9);
-    insert(first, 5);
-    insert(first, 11);
-    insert(first, 4);
+    insert(&first, 52);
+    insert(&first, 63);
+    insert(&first, 78);
+    insert(&first, 80);
+    insert(&first, 26);
 
-    
-    printf("Original list:\n");
-    traversing(first);
+    printf("the linked list is: \n");
+    display(first);
     return 0;
 }
