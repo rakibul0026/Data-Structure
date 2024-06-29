@@ -10,7 +10,7 @@ void insert(node** s, int data) {
     node* new_node = (node*)malloc(sizeof(node));
     new_node->data = data;
     
-    if (*s == NULL) {
+    if (*s == s) {
         new_node->next = new_node;
         *s = new_node;
     } else {
