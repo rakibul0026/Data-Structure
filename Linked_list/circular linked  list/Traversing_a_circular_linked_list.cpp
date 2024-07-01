@@ -6,46 +6,42 @@ typedef struct node {
     struct node* next;
 } node;
 
-void insert(node** s, int data) {
+void insert(node* head, int data) {
+    node* s = head;
+    while (s->next != head) {
+        s = s->next;
+    }
     node* new_node = (node*)malloc(sizeof(node));
     new_node->data = data;
-    
-    if (*s == s) {
-        new_node->next = new_node;
-        *s = new_node;
-    } else {
-        node* temp = *s;
-        while (temp->next != *s) {
-            temp = temp->next;
-        }
-        temp->next = new_node;
-        new_node->next = *s;
-    }
+    new_node->next = head;
+    s->next = new_node;
 }
 
-void display(node* s) {
-    if (s == NULL) 
+void display(node* head) {
+    if (head->next == head) {
+        printf("List is empty\n");
         return;
-    node* temp = s;
+    }
+    node* s = head->next; 
     do {
-        printf("%d ", temp->data);
-        temp = temp->next;
-    } while (temp != NULL);
-    printf("\n");
+        printf("%d->", s->data);
+        s = s->next;
+    } while (s != NULL);
+    printf("HEAD\n");
 }
-
 
 
 int main() {
-    node* first = NULL;
+    node* head = (node*)malloc(sizeof(node));
+    head->next = head; 
 
-    insert(&first, 52);
-    insert(&first, 63);
-    insert(&first, 78);
-    insert(&first, 80);
-    insert(&first, 26);
+    insert(head, 52);
+    insert(head, 63);
+    insert(head, 78);
+    insert(head, 80);
+    insert(head, 26);
+    printf("\nDisplay the linked list:\n");
+    display(head);
 
-    printf("the linked list is: \n");
-    display(first);
     return 0;
 }
