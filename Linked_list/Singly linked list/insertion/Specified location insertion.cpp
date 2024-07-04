@@ -31,7 +31,7 @@ void specified_location(node* s, int data, int loc) {
     new_node->data = data;
 
     node* temp = s;
-    for (int i = 1; i < loc; i++) {
+    for (int i = 1; i < loc-1; i++) {
         if (temp->next == s) {
             printf("Location out of bounds\n");
             free(new_node);
@@ -56,11 +56,11 @@ int main() {
     insert(first, 26);
 
     printf("\nBefore the insertion\n");
-    display(first->next);  
+    display(first->next); 
     
-    specified_location(first->next, 34, 1); 
+    specified_location(first, 34, 1); 
     printf("\nAfter the specified_location insertion\n");
-    display(first->next);  
+    display(first->next); 
 
     return 0;
 }
