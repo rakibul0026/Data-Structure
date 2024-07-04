@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -36,9 +35,6 @@ void display() {
     }
     printf("NULL\n");
 }
-
-
-
 
 void specified_location(int data, int loc) {
     if (loc <= 0) {
