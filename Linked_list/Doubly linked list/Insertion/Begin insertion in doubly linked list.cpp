@@ -38,14 +38,13 @@ void display() {
 }
 
 void begin_insert(int item) {
-    node *new_node = (node*)malloc(sizeof(node));
+     node *new_node = (node *)malloc(sizeof(node));
     new_node->prev = NULL;
     new_node->data = item;
+    new_node->next = NULL;
+    
     new_node->next = head;
-
-    if (head != NULL) {
-        head->prev = new_node;
-    }
+    head->prev=new_node;
     head = new_node;
 }
 
