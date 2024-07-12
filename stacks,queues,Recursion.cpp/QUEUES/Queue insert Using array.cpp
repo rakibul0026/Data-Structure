@@ -1,14 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
 
-#include <iostream>
-using namespace std;
-
-const int n = 100; 
+const int n = 100;
 int queue[n];
 int front = -1, rear = -1;
 
 void enqueue(int x) {
     if (rear == n - 1) {
-        cout << "Overflow";
+        printf("Overflow\n");
     } else if (front == -1 && rear == -1) {
         front = rear = 0;
         queue[rear] = x;
@@ -20,11 +19,12 @@ void enqueue(int x) {
 
 void display() {
     if (front == -1 && rear == -1) {
-        cout << "Queue is empty";
+        printf("Queue is empty\n");
     } else {
         for (int i = front; i <= rear; i++) {
-            cout << queue[i] << " ";
+            printf("%d ", queue[i]);
         }
+        printf("\n");
     }
 }
 
@@ -33,6 +33,6 @@ int main() {
     enqueue(2);
     enqueue(3);
     display();
-   
+
     return 0;
 }
