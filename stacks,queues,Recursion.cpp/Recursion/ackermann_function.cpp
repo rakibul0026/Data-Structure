@@ -15,7 +15,6 @@ int ack(int m, int n)
 	}
 }
 
-// Driver code
 int main()
 {
 	int A;
