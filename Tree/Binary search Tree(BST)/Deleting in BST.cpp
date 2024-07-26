@@ -6,7 +6,7 @@ typedef struct node
     struct node *left;
     struct node *right;
 } node;
-node *Insert(node *root, int data)
+struct node *insert(node *root, int data)
 {
     if (root == NULL)
     {
@@ -14,40 +14,37 @@ node *Insert(node *root, int data)
         root->data = data;
         root->left = root->right = NULL;
     }
-    else if (data <= root->data)
+    else if (data < root->data)
     {
-        root->left = Insert(root->left, data);
+        root->left = insert(root->left, data);
     }
     else
     {
-        root->right=Insert(root->right,data);
+        root->right = insert(root->right, data);
     }
     return root;
 }
-void Inorder(node* root){
-    if(root==NULL){
-        return ;
-    }
-    Inorder(root->left);
-    printf("%d ",root->data);
-    Inorder(root->right);
-    
-
-}
-struct node *FindMin(node *root)
-{
-    while (root->left != NULL)
-    {
-        root = root->left;
-    }
-    return root;
-}
-
-struct node *Delete(struct node *root, int data)
+void inorder(node *root)
 {
     if (root == NULL)
     {
-        return root;
+        return;
+    }
+    inorder(root->left);
+    printf("%d ", root->data);
+    inorder(root->right);
+}
+node* findmin(node *root){
+    while(root->left!=NULL){
+        root=root->left;
+    }
+    return root;
+}
+struct node *Delete(node *root, int data)
+{
+    if (root == NULL)
+    {
+        return NULL;
     }
     else if (data < root->data)
     {
@@ -59,45 +56,46 @@ struct node *Delete(struct node *root, int data)
     }
     else
     {
-        if (root->left == NULL && root->right == NULL) 
+        if (root->left == NULL && root->right == NULL)
         {
-            delete root;
-            root = NULL;
+            free(root);
+            return NULL;
         }
-        else if (root->left = NULL) 
+        else if (root->left == NULL)
         {
             node *temp = root;
-            root = root->left;
-            delete temp;
+            temp = temp->left;
+            free(temp);
         }
-        else if (root->right == NULL) 
+        else if (root->right == NULL)
         {
             node *temp = root;
-            root = root->right;
-            delete temp;
+            temp = temp->right;
+            free (temp);
         }
         else
         {
-            struct node *temp = FindMin(root->right);
-            root->data = temp->data;
-            root->right = Delete(root->right, temp->data);
+            node * temp=findmin(root->right);
+            root->data=temp->data;
+            root->right=Delete(root->right,temp->data);
         }
     }
     return root;
 }
-int main(){
-    node* root=NULL;
-    root=Insert(root,3);
-    root=Insert(root,4);
-    root=Insert(root,5);
-    root=Insert(root,6);
-    root=Insert(root,9);
-    
-    printf("Before the deletion:\n");
-    Inorder(root);
+int main()
+{
+    node *root = NULL;
+    root = insert(root, 4);
+    root = insert(root, 8);
+    root = insert(root, 7);
+    root = insert(root, 10);
+    root = insert(root, 12);
 
-    printf("\nBefore the deletion:\n");
-    root =Delete(root, 4);
-    Inorder(root);
- 
+    inorder(root);
+     
+    printf("\nDelete 12\n");
+    Delete(root, 12);
+    inorder(root);
+
+    return 0;
 }
