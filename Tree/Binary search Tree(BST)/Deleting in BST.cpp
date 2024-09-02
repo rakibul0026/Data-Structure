@@ -1,3 +1,4 @@
+//Deleting in BST
 #include <stdio.h>
 #include <stdlib.h>
 typedef struct node
