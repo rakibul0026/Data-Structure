@@ -130,26 +130,26 @@ struct Node* insert(struct Node* node, int key)
 
 	// Left Left Case 
 	/* See the diagram given above. 
-	          40
+	                40
 		       /  \
 		     20	    50         key < node->left->key
 		   /                    5 < 10
 		 10
-	  /
-	5
+	       /
+	     5
        */
  
 	if (balance > 1 && key < node->left->key) 
 		return rightRotate(node); 
       // Right Right Case 
      /* See the diagram given above. 
-	          40
+	                40
 		       /  \
 		     20	    50
-			             \                    key > node->right->key
-	                  60                  70 > 60
-				               \
-	                      70
+			      \                    key > node->right->key
+	                       60                            70 > 60
+				 \
+	                           70
 	*/	       
 
 	if (balance < -1 && key > node->right->key) 
@@ -157,13 +157,13 @@ struct Node* insert(struct Node* node, int key)
 
 	// Left Right Case 
 	/* See the diagram given above. 
-          40
-			  /    \ 
+         40
+       /    \ 
      30       50            key > node->left->key
-	 L /                        25> 20
-	  20
+	     L /                        25> 20
+	    20
 	    \ R
-		    25
+	      25
 	*/
 	if (balance > 1 && key > node->left->key) 
 	{ 
@@ -175,12 +175,12 @@ struct Node* insert(struct Node* node, int key)
 	/* See the diagram given above. 
 
             50
-		      /    \
-	      10      70
-	                \ R
-			              80
-	                / L
-			          75
+	   /   \
+	 10      70
+	          \ R
+		    80
+	           / L
+	          5
 	*/
 	
 	if (balance < -1 && key < node->right->key) 
