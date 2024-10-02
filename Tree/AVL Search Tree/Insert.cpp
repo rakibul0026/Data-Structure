@@ -159,11 +159,11 @@ struct Node* insert(struct Node* node, int key)
 	/* See the diagram given above. 
          40
        /    \ 
-     30       50            key > node->left->key
-	     L /                        25> 20
+     30        50            key > node->left->key
+	  L   /                       25> 20
 	    20
-	    \ R
-	      25
+	      \ R
+	        25
 	*/
 	if (balance > 1 && key > node->left->key) 
 	{ 
@@ -177,8 +177,8 @@ struct Node* insert(struct Node* node, int key)
             50
 	   /   \
 	 10      70
-	          \ R
-		    80
+	          \ R            key < node->right->key
+		    80             5 < 80
 	           / L
 	          5
 	*/
