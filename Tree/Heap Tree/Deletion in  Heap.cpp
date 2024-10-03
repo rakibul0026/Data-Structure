@@ -1,3 +1,11 @@
+/*   parent index i
+    |---> 2*i+1(Left child)
+    
+    |---> 2*i+2(Right child)
+
+    Child index i
+    parent: (i-1)/2  */
+
 #include <bits/stdc++.h>
 using namespace std;
 
