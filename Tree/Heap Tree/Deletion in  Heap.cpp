@@ -50,7 +50,9 @@ public:
         int largest = index;
         int left = 2 * index + 1;
         int right = 2 * index + 2;
-
+        
+ /*Largest will store of the element which is the greater between 
+        parent,left child and Right child */
       
         if (left < size && arr[left] > arr[largest])
             largest = left;
