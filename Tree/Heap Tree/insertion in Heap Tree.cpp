@@ -30,7 +30,7 @@ public:
         while (index > 0 && arr[(index - 1) / 2] < arr[index])
         {
             swap(arr[index], arr[(index - 1) / 2]);
-            index = (index - 1) / 2;
+            index = (index - 1) / 2;                    //update index ->parent=(i-1)/2 index is now recent index of insert value
         }
 
         cout << value << " is inserted into the heap" << endl;
