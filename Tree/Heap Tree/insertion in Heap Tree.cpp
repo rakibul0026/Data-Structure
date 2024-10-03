@@ -26,7 +26,7 @@ public:
         int index = size;
         size++;
 
-        // Fix the max heap property if it is violated
+        // compare it with its parent
         while (index > 0 && arr[(index - 1) / 2] < arr[index])
         {
             swap(arr[index], arr[(index - 1) / 2]);
