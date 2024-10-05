@@ -1,5 +1,8 @@
-//Time Complexity:
-//Space complexity: 
+/*Time Complexity:
+   Best case:O(n^2)
+   Worst case: o(n^2)  
+   Average case: o(n^2)  
+Space complexity:O(1) */
 #include <iostream>
 using namespace std;
 
