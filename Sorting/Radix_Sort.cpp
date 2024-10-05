@@ -1,5 +1,5 @@
-//Time Complexity:
-//Space complexity:
+//Time Complexity:o(n×logm)
+//Space complexity:o(n)
 #include <iostream>
 using namespace std;
 int getMax(int arr[], int n) {
