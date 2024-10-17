@@ -1,3 +1,19 @@
+/*adjacency matrix like ->   0  1   1  0  0
+                             1  0   1  1  1
+                             1  1   0  0  0
+                             0  1   0  0  1
+                             0  1   0  1  0
+                input->
+                5 6
+                0 1
+                2 0
+                2 1
+                1 3
+                3 4
+                1 4
+
+*/
+
 #include <stdio.h>
 #include <iostream>
 using namespace std;
