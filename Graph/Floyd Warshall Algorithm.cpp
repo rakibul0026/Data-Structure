@@ -21,7 +21,10 @@ void floydWarshall(int dist[][V])
             for (int j = 0; j < V; j++)
             {
 
-                dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j]);
+                if (dist[i][k] != INF && dist[k][j] != INF)
+                {
+                    dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j]);
+                }
             }
         }
     }
