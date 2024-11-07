@@ -12,6 +12,10 @@
                 3 4
                 1 4
 
+    Time Complexity=O(node²)
+
+                
+
 */
 
 #include <stdio.h>
