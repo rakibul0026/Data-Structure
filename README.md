@@ -10,6 +10,7 @@
 - ### [First_position_insertion](https://github.com/rakibul0026/Data-Structure/blob/main/Array/First_position_insertion.cpp)
 - ### [Matrix_Multiplication.c](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Matrix_Multiplication.c)
 - ### [Traversing_Linear array.cpp](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Traversing_Linear%20array.cpp)
-- ### [Traversing_Linear array.cpp]()
-- ### [Traversing_Linear array.cpp]()
+- ### [k_th_position_insertion.cpp]()
+- ### [last_position_insertion.cpp]()
+
 
