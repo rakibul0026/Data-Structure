@@ -8,14 +8,17 @@
 - ### [Before a Given Number](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Before__a_given_number.cpp)
 - ### [Delete the array element](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Delete%20the%20array%20element.cpp)
 - ### [First_position_insertion](https://github.com/rakibul0026/Data-Structure/blob/main/Array/First_position_insertion.cpp)
-- ### [Matrix_Multiplication.c](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Matrix_Multiplication.c)
-- ### [Traversing_Linear array.cpp](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Traversing_Linear%20array.cpp)
-- ### [k_th_position_insertion.cpp](https://github.com/rakibul0026/Data-Structure/blob/main/Array/k_th_position_insertion.cpp)
-- ### [last_position_insertion.cpp](https://github.com/rakibul0026/Data-Structure/blob/main/Array/last_position_insertion.cpp)
+- ### [Matrix_Multiplication](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Matrix_Multiplication.c)
+- ### [Traversing_Linear array](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Traversing_Linear%20array.cpp)
+- ### [k_th_position_insertion](https://github.com/rakibul0026/Data-Structure/blob/main/Array/k_th_position_insertion.cpp)
+- ### [last_position_insertion](https://github.com/rakibul0026/Data-Structure/blob/main/Array/last_position_insertion.cpp)
   
 ## [Graph](https://github.com/rakibul0026/Data-Structure/tree/main/Graph)  
-- ### [1.Adjacency_List.c]()  
-
+- ### [1.Adjacency_List]()  
+- ### [1.Adjacency_Matrix]()
+-  ### [2.Find_neighbors\adjacent_nodes_of_a_Node]()
+-  ### [1.Adjacency_List]()
+- ### [1.Adjacency_List]()  
 
 
 
