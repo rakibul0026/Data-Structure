@@ -26,7 +26,7 @@
 ## [linked list](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list)  
 - ### [Singly linked list](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Singly%20linked%20list)
   - ### [insertion]()
-        - [Begin insert in linked list]()
+    -[Begin insert in linked list]()
    -  #### [Inserting end in linked list]()
    -  #### [Specified location insertion]()
    -  #### [inserting after a given node.c]()
