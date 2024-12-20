@@ -40,7 +40,7 @@
    - ### [Traversing_a_circular_linked_list.c]()
 
  ## [Sorting]()  
-   ### [Heap Sort](#)
+ ### [Heap Sort](#)
   - #### [Heap Sort (Max Heap).cpp](#)
   - #### [Heap Sort (Min Heap).cpp](#)
 
