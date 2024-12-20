@@ -40,10 +40,10 @@
    - ### [Traversing_a_circular_linked_list.c]()
 ## [Sorting](#)
 
-- ### [Heap Sort](#)
-     - ### [Search in Array](https://github.com/rakibul0026/Data-Structure/tree/main/Array/Search%20in%20array)  
-  - [Binary Search](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Search%20in%20array/Binary%20search.cpp)  
-  - [Linear Search](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Search%20in%20array/Linear_search.cpp)  
+
+     - ### [Heap Sort]()  
+  - [Binary Search]()  
+  - [Linear Search]()  
    - ### [Bubble Sort](#)
    - ### [Insertion Sort]()
    - ### [Merge sort]()
