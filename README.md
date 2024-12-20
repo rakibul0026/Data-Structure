@@ -41,8 +41,8 @@
 ## [Sorting](#)
 
 - ### [Heap Sort](#)
-  - #### [Heap Sort (Max Heap).cpp](#)
-  - #### [Heap Sort (Min Heap).cpp](#)
+  -  [Heap Sort (Max Heap).cpp](#)
+  -  [Heap Sort (Min Heap).cpp](#)
 
    - ### [Bubble Sort](#)
    - ### [Insertion Sort]()
