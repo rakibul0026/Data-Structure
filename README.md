@@ -31,6 +31,10 @@
    - ### [search]()
    - ### [Traversing]()
  - ### [Doubly linked list]()
+   - ### [Insertion]()
+   - ### [delete]()
+   - ### [Traverse in doubly linked list]()
  - ### [circular linked list]()  
+
 
 
