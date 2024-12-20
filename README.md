@@ -15,7 +15,7 @@
   
 ## [Graph](https://github.com/rakibul0026/Data-Structure/tree/main/Graph)  
 - ### [1.Adjacency_List](https://github.com/rakibul0026/Data-Structure/blob/main/Graph/1.Adjacency_List.c)  
-- ### [1.Adjacency_Matrix]()
+- ### [1.Adjacency_Matrix](https://github.com/rakibul0026/Data-Structure/blob/main/Graph/1.Adjacency_Matrix.cpp)
 -  ### [2.Find_neighbors\adjacent_nodes_of_a_Node]()
 -  ### [3.BFS algorithm]()
 - ### [4.BFS Using stl]()  
