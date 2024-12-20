@@ -29,7 +29,7 @@
      - [Begin insert in linked list](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/insertion/Begin%20insert%20in%20linked%20list.c)
      - [Inserting end in linked list](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/insertion/Inserting%20end%20in%20linked%20list.c)
      - [Specified location insertion](https://github.com/rakibul0026/Data-Structure/edit/main/Linked_list/Singly%20linked%20list/insertion/Specified%20location%20insertion.c)
-     - [inserting after a given node.c]()
+     - [inserting after a given node](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/insertion/inserting%20after%20a%20given%20node.c)
    - ### [Delete]()
    - ### [reverse]()
    - ### [search]()
