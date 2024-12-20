@@ -42,15 +42,14 @@
 
 
   - ### [Heap Sort]()  
-  - [Binary Search]()  
-  - [Linear Search]()  
-   - ### [Bubble Sort](#)
+  - [Heap Sort(Max _Heap)]()  
+  - [Heap sort(Min _heap)]()  
+   - ### [Bubble Sort]()
    - ### [Insertion Sort]()
    - ### [Merge sort]()
    - ### [Quick Sort]()
    - ### [Radix_Sort]()
    - ### [Selection Sort]()
    - ### [counting sort]()
-
 
 
