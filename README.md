@@ -24,7 +24,7 @@
  - ### [7.Topological Sort using dfs](https://github.com/rakibul0026/Data-Structure/blob/main/Graph/7.Topological%20Sort%20using%20dfs.c)  
 
 ## [linked list](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list)  
-- ### [Singly linked list]()
+- ### [Singly linked list](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Singly%20linked%20list)
   - ### [insertion]()
    - ### [Delete]()
    - ### [reverse]()
