@@ -25,11 +25,11 @@
 
 ## [linked list]()  
 - ### [Singly linked list]()
-- - ### [insertion]()
--  - ### [Delete]()
--  - ### [reverse]()
--  - ### [search]()
--  - ### [Traversing]()
+  - ### [insertion]()
+   - ### [Delete]()
+   - ### [reverse]()
+   - ### [search]()
+   - ### [Traversing]()
  - ### [Doubly linked list]()
  - ### [circular linked list]()  
 
