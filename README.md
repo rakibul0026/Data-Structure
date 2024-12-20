@@ -54,7 +54,7 @@
 ## [Sorting](https://github.com/rakibul0026/Data-Structure/tree/main/Sorting)
 
 
-  - ### [Heap Sort]()  
+  - ### [Heap Sort](https://github.com/rakibul0026/Data-Structure/tree/main/Sorting/Heap%20Sort)  
     - [Heap Sort(Max _Heap)]()  
     - [Heap sort(Min _heap)]()  
    - ### [Bubble Sort]()
