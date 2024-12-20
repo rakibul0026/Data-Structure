@@ -41,11 +41,11 @@
 
  ## [Sorting]()  
    - ### [Heap Sort]()
-   - ### [ Radix_Sort.cpp]()
-   - ### [Bubble sort.cpp]()
-   - ### [Quick Sort.cpp]()
-   - ### [Radix_Sort.cpp]()
-    - ### [Selection Sort]()
+   - ### [ Radix_Sort]()
+   - ### [Bubble sort]()
+   - ### [Quick Sort]()
+   - ### [Radix_Sort]()
+  - ### [Selection Sort]()
     - ### [counting sort]()
 Sorting/
 Directory actionsAdd file
