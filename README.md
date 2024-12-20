@@ -51,7 +51,7 @@
    - ### [Insertion]()
    - ### [delete]()
    - ### [Traversing_a_circular_linked_list.c]()
-## [Sorting](#)
+## [Sorting](https://github.com/rakibul0026/Data-Structure/tree/main/Sorting)
 
 
   - ### [Heap Sort]()  
