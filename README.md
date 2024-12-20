@@ -37,7 +37,7 @@
         - [Last node delete](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/Delete/Last%20node%20delete.c)
    - ### [reverse](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Singly%20linked%20list/reverse)
       - [Reverse Linked List in iterative](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/reverse/Reverse%20Linked%20List%20in%20iterative.c)
-      -  [reverse List in Recursive.c]()  
+      -  [reverse List in Recursive](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/reverse/reverse%20List%20in%20%20Recursive.c)  
    - ### [search]()
    - ### [Traversing]()
  - ### [Doubly linked list](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Doubly%20linked%20list)
