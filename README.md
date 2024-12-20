@@ -55,7 +55,7 @@
 
 
   - ### [Heap Sort](https://github.com/rakibul0026/Data-Structure/tree/main/Sorting/Heap%20Sort)  
-    - [Heap Sort(Max _Heap)]()  
+    - [Heap Sort(Max _Heap)](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Heap%20Sort/Heap%20Sort(Max%20_Heap).cpp)  
     - [Heap sort(Min _heap)]()  
    - ### [Bubble Sort]()
    - ### [Insertion Sort]()
