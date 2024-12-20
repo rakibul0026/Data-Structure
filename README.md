@@ -6,5 +6,5 @@
   - [Linear Search](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Search%20in%20array/Linear_search.cpp)  
 - ### [After a Given Number Insertion](https://github.com/rakibul0026/Data-Structure/blob/main/Array/After_a_given_number_insertion.cpp)  
 - ### [Before a Given Number](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Before__a_given_number.cpp)
-- ### [Delete](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Delete%20the%20array%20element.cpp)
+- ### [Delete the array element](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Delete%20the%20array%20element.cpp)
 - ### [Before a Given Number](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Before__a_given_number.cpp)   
