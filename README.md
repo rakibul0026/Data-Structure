@@ -41,7 +41,7 @@
 ## [Sorting](#)
 
 
-     - ### [Heap Sort]()  
+  - ### [Heap Sort]()  
   - [Binary Search]()  
   - [Linear Search]()  
    - ### [Bubble Sort](#)
