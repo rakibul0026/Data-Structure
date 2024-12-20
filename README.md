@@ -19,7 +19,7 @@
 -  ### [2.Find_neighbors\adjacent_nodes_of_a_Node](https://github.com/rakibul0026/Data-Structure/blob/main/Graph/2.Find_neighbors%5Cadjacent_nodes_of_a_Node.c)
 -  ### [3.BFS algorithm](https://github.com/rakibul0026/Data-Structure/blob/main/Graph/3.BFS%20algorithm.cpp)
 - ### [4.BFS Using stl](https://github.com/rakibul0026/Data-Structure/blob/main/Graph/4.BFS%20Using%20stl.cpp)  
-- ### [5.DFS (Depth First Search) algorithm]()  
+- ### [5.DFS (Depth First Search) algorithm](https://github.com/rakibul0026/Data-Structure/blob/main/Graph/5.DFS%20(Depth%20First%20Search)%20algorithm.cpp)  
 - ### [6.Topological Sort to 6.Topological Sort]()
  - ### [7.Topological Sort using dfs]()  
 
