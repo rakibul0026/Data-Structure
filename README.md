@@ -41,12 +41,14 @@
 
  ## [Sorting]()  
    - ### [Heap Sort]()
-   - ### [ Radix_Sort]()
    - ### [Bubble sort]()
+   - ### [ Radix_Sort]()
+   - ### [Insertion Sort]()
+   - ### [Merge sort]()
    - ### [Quick Sort]()
    - ### [Radix_Sort]()
    - ### [Selection Sort]()
    - ### [counting sort]()
-   - ### [Merge sort]()
+
 
 
