@@ -34,19 +34,3 @@
  - ### [circular linked list]()  
 
 
-Name	Last commit message	Last commit date
-parent directory
-..
-Delete
-Rename Last node delete.cpp to Last node delete.c
-4 months ago
-insertion
-Rename inserting after a given node.cpp to inserting after a given no…
-5 months ago
-reverse
-Rename reverse List in Recursive.cpp to reverse List in Recursive.c
-5 months ago
-search
-Rename search in linked list.cpp to search in linked list.c
-5 months ago
-Traversing.c
