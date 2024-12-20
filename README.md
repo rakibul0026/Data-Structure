@@ -42,7 +42,7 @@
        - [search in linked list](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/search%20/search%20%20in%20linked%20list.c)
        - [search sorted linked list](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/search%20/search%20sorted%20linked%20list.cpp)
        
-   - ### [Traversing]()
+   - ### [Traversing](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/Traversing.c)
  - ### [Doubly linked list](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Doubly%20linked%20list)
    - ### [Insertion]()
    - ### [delete]()
