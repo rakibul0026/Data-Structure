@@ -28,7 +28,7 @@
   - ### [insertion](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Singly%20linked%20list/insertion)
      - [Begin insert in linked list](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/insertion/Begin%20insert%20in%20linked%20list.c)
      - [Inserting end in linked list](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/insertion/Inserting%20end%20in%20linked%20list.c)
-     - [Specified location insertion]()
+     - [Specified location insertion](https://github.com/rakibul0026/Data-Structure/edit/main/Linked_list/Singly%20linked%20list/insertion/Specified%20location%20insertion.c)
      - [inserting after a given node.c]()
    - ### [Delete]()
    - ### [reverse]()
