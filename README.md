@@ -41,8 +41,9 @@
 ## [Sorting](#)
 
 - ### [Heap Sort](#)
-      -  [Heap Sort (Max Heap).cpp](#)
-      -  [Heap Sort (Min Heap).cpp](#)
+     - ### [Search in Array](https://github.com/rakibul0026/Data-Structure/tree/main/Array/Search%20in%20array)  
+  - [Binary Search](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Search%20in%20array/Binary%20search.cpp)  
+  - [Linear Search](https://github.com/rakibul0026/Data-Structure/blob/main/Array/Search%20in%20array/Linear_search.cpp)  
    - ### [Bubble Sort](#)
    - ### [Insertion Sort]()
    - ### [Merge sort]()
