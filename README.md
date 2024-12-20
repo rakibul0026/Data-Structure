@@ -41,6 +41,8 @@
 
  ## [Sorting]()  
    - ### [Heap Sort]()
+    -#### [Heap Sort(Max _Heap).cpp]()
+    -#### [Heap sort(Min _heap).cpp]()
    - ### [Bubble sort]()
    - ### [Insertion Sort]()
    - ### [Merge sort]()
@@ -51,3 +53,10 @@
 
 
 
+Name	Last commit message	Last commit date
+parent directory
+..
+Heap Sort(Max _Heap).cpp
+Update Heap Sort(Max _Heap).cpp
+2 months ago
+Heap sort(Min _heap).cpp
