@@ -59,7 +59,7 @@
     - [Heap sort(Min _heap)](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Heap%20Sort/Heap%20sort(Min%20_heap).cpp)  
    - ### [Bubble Sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Bubble%20sort.cpp)
    - ### [Insertion Sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Insertion%20Sort.cpp)
-   - ### [Merge sort]()
+   - ### [Merge sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Merge%20sort.cpp)
    - ### [Quick Sort]()
    - ### [Radix_Sort]()
    - ### [Selection Sort]()
