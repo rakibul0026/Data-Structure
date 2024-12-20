@@ -30,7 +30,7 @@
    - ### [reverse]()
    - ### [search]()
    - ### [Traversing]()
- - ### [Doubly linked list]()
+ - ### [Doubly linked list](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Doubly%20linked%20list)
    - ### [Insertion]()
    - ### [delete]()
    - ### [Traverse in doubly linked list]()
