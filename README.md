@@ -36,6 +36,8 @@
         - [Deleting the node with a given node](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/Delete/Deleting%20the%20node%20with%20a%20given%20node.c)
         - [Last node delete](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/Delete/Last%20node%20delete.c)
    - ### [reverse](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Singly%20linked%20list/reverse)
+      - [Reverse Linked List in iterative]()
+      -  [reverse List in Recursive.c]()  
    - ### [search]()
    - ### [Traversing]()
  - ### [Doubly linked list](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Doubly%20linked%20list)
@@ -61,16 +63,8 @@
    - ### [counting sort]()
 
 
-Name	Last commit message	Last commit date
-parent directory
 ..
-Begin delete.c
-Rename Begin delete.cpp to Begin delete.c
-4 months ago
-Delete specific location.c
-Rename Delete specific location.cpp to Delete specific location.c
-4 months ago
-Deleting the node with a given node.c
-Rename Deleting the node with a given node.cpp to Deleting the node w…
-4 months ago
-Last node delete.c
+Reverse Linked List in iterative.c
+
+
+reverse List in Recursive.c
