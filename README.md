@@ -63,14 +63,9 @@
    - ### [Quick Sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Quick%20Sort.cpp)
    - ### [Radix_Sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Radix_Sort.cpp)
    - ### [Selection Sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Selection%20Sort.cpp)
-   - ### [counting sort]()
+   - ### [counting sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/counting%20sort.cpp)
 
 
 
 
-search in linked list
 
-search sorted linked list
-
-
-reverse List in Recursive.c
