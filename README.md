@@ -32,7 +32,7 @@
      - [inserting after a given node](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/insertion/inserting%20after%20a%20given%20node.c)
    - ### [Delete](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Singly%20linked%20list/Delete)
         - [Begin delete](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/Delete/Begin%20delete.c)
-        - [Delete specific location.c]()
+        - [Delete specific location](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/Delete/Delete%20specific%20location.c)
         - [Deleting the node with a given node]()
         - [Last node delete]()
    - ### [reverse]()
