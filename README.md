@@ -39,6 +39,7 @@
       - [Reverse Linked List in iterative](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/reverse/Reverse%20Linked%20List%20in%20iterative.c)
       -  [reverse List in Recursive](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/reverse/reverse%20List%20in%20%20Recursive.c)  
    - ### [search](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Singly%20linked%20list/search%20)
+       - [search in linked list]()  
    - ### [Traversing]()
  - ### [Doubly linked list](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Doubly%20linked%20list)
    - ### [Insertion]()
@@ -63,8 +64,11 @@
    - ### [counting sort]()
 
 
-..
-Reverse Linked List in iterative.c
+
+
+search in linked list
+
+search sorted linked list
 
 
 reverse List in Recursive.c
