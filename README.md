@@ -31,6 +31,9 @@
      - [Specified location insertion](https://github.com/rakibul0026/Data-Structure/edit/main/Linked_list/Singly%20linked%20list/insertion/Specified%20location%20insertion.c)
      - [inserting after a given node](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/insertion/inserting%20after%20a%20given%20node.c)
    - ### [Delete](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Singly%20linked%20list/Delete)
+      -[Begin delete]()
+      -[Delete specific location.c]()
+      -[Deleting the node with a given node]()
    - ### [reverse]()
    - ### [search]()
    - ### [Traversing]()
@@ -57,10 +60,16 @@
    - ### [counting sort]()
 
 
-Begin insert in linked list.c
-
-Inserting end in linked list.c
-
-Specified location insertion.c
-
-inserting after a given node.c
+Name	Last commit message	Last commit date
+parent directory
+..
+Begin delete.c
+Rename Begin delete.cpp to Begin delete.c
+4 months ago
+Delete specific location.c
+Rename Delete specific location.cpp to Delete specific location.c
+4 months ago
+Deleting the node with a given node.c
+Rename Deleting the node with a given node.cpp to Deleting the node w…
+4 months ago
+Last node delete.c
