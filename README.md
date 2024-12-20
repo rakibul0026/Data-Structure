@@ -34,6 +34,7 @@
       -[Begin delete]()
       -[Delete specific location.c]()
       -[Deleting the node with a given node]()
+      -[Last node delete]()
    - ### [reverse]()
    - ### [search]()
    - ### [Traversing]()
