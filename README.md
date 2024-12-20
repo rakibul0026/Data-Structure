@@ -42,8 +42,8 @@
 
 
   - ### [Heap Sort]()  
-  - [Heap Sort(Max _Heap)]()  
-  - [Heap sort(Min _heap)]()  
+    - [Heap Sort(Max _Heap)]()  
+    - [Heap sort(Min _heap)]()  
    - ### [Bubble Sort]()
    - ### [Insertion Sort]()
    - ### [Merge sort]()
