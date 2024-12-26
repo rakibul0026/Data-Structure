@@ -114,7 +114,7 @@
       - [2.Preorder Traversal using Stack](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/1.Traversal%20Using%20Stack/2.Preorder%20Traversal%20using%20Stack.cpp)
       - [3.Postorder Traversel in one Stack](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/1.Traversal%20Using%20Stack/3.Postorder%20Traversel%20in%20one%20Stack.c)
       - [4.iterative postorder traversal using two stacks]( https://github.com/rakibul0026/Data-Structure/blob/main/Tree/1.Traversal%20Using%20Stack/4.iterative%20postorder%20traversal%20using%20two%20stacks.c)
-      - [5.iterative preorder traversal of binary tree using one stack in c]( )
+      - [5.iterative preorder traversal of binary tree using one stack in c](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/1.Traversal%20Using%20Stack/5.iterative%20preorder%20traversal%20of%20binary%20tree%20using%20one%20stack%20in%20c.c )
   - ### [AVL Search Tree](#)
   - ### [B Tree](#)
   - ### [Binary Tree](#)
