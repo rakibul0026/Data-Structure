@@ -105,7 +105,7 @@
 - ### [stacks](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/stacks)
     - [Pop](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/stacks/Pop.cpp)
     - [Push](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/stacks/Push.cpp)
-    - [pop operation implement in LInked List]()
+    - [pop operation implement in LInked List](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/stacks/pop%20operation%20implement%20in%20LInked%20List.cpp)
     - [push implement using LInked list]()
 
 
