@@ -120,19 +120,23 @@
       - [2.AVL Tree Deletion](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/AVL%20Search%20Tree/2.AVL%20Tree%20Deletion.cpp)
        - [3.Searching](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/AVL%20Search%20Tree/3.Searching.cpp)
   - ### [B Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/B%20Tree)
+    - [insertion.cpp]()
+     - [searching.cpp]()
+    - [Deleting in B Tree.cpp]()
   - ### [Binary Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Binary%20Tree)
   - ### [Binary Search Tree (BST)](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Binary%20search%20Tree(BST))
   - ### [Heap Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Heap%20Tree)
   - ### [Threaded Binary Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Threaded%20Binary%20Tree)
   - ### [m-Array Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/m_Array%20Tree)
 
+..
+Deleting in B Tree.cpp
+
+insertion.cpp
+
+searching.cpp
 
 
 
 
 
-1.AVL Tree Insertion & Rotation.cpp
-
-2.AVL Tree Deletion.cpp
-
-3.Searching.cpp
