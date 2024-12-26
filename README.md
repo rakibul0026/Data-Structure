@@ -82,16 +82,27 @@
   - ### [stacks,queues,Recursion.cpp](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp)  
     - []()  
     - [Heap sort(Min _heap)](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Heap%20Sort/Heap%20sort(Min%20_heap).cpp)  
-   - ### [Bubble Sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Bubble%20sort.cpp)
-   - ### [Insertion Sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Insertion%20Sort.cpp)
-   - ### [Merge sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Merge%20sort.cpp)
-   - ### [Quick Sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Quick%20Sort.cpp)
-   - ### [Radix_Sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Radix_Sort.cpp)
-   - ### [Selection Sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Selection%20Sort.cpp)
-   - ### [counting sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/counting%20sort.cpp)
+   - ### [Deques](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Bubble%20sort.cpp)
+   - ### [Priority Queues](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Insertion%20Sort.cpp)
+   - ### [QUEUES](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Merge%20sort.cpp)
+   - ### [Recursion](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Quick%20Sort.cpp)
+   - ### [Transforming Expression](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Radix_Sort.cpp)
+   - ### [stacks](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Selection%20Sort.cpp)
+  
 
-stacks,queues,Recursion.cpp
 
+
+Deques
+
+Priority Queues
+
+QUEUES
+
+Recursion
+
+Transforming Expression
+
+stacks
 
 
 
