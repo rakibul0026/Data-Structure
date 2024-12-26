@@ -102,12 +102,7 @@
 
 
 
-Queue Delete using array .c
 
-Queue deleting implement in Linked list.c
+circular queue implement in linked list.c
 
-Queue insert Using array.c
-
-queue insert implement in Linked list.c
-
-
+circular queue implement using array.c
