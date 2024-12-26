@@ -86,7 +86,11 @@
 - ### [Priority Queues](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Priority%20Queues)
    - [Priority Queue implement array](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/Priority%20Queues/Priority%20Queue%20implement%20array.c)
     - [Priority Queue implement in Linked list.c](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/Priority%20Queues/Priority%20Queue%20implement%20in%20Linked%20list.c) 
-- ### [QUEUES](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES)  
+- ### [QUEUES](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES)
+   - [Queue Delete using array]()
+    - [Queue deleting implement in Linked list]()
+   - [Queue insert Using array]()
+   - [queue insert implement in Linked list]()
 - ### [Recursion](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Recursion)  
 - ### [Transforming Expression](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Transforming%20Expression)  
 - ### [stacks](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/stacks)
@@ -97,9 +101,12 @@
 
 
 
-Priority Queue implement array.c
+Queue Delete using array .c
 
-Priority Queue implement in Linked list.c
+Queue deleting implement in Linked list.c
 
+Queue insert Using array.c
+
+queue insert implement in Linked list.c
 
 
