@@ -52,7 +52,7 @@
    - ### [delete](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Doubly%20linked%20list/delete%20)
        -  [Begin insertion in doubly linked list.c](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Doubly%20linked%20list/delete%20/begin%20%20delete%20in%20doubly%20linked%20list.c)
        -  [last insertion in doubly linked list.c](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Doubly%20linked%20list/delete%20/begin%20%20delete%20in%20doubly%20linked%20list.c)
-      - [specified position insertion in doubly linked list.c](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Doubly%20linked%20list/delete%20/begin%20%20delete%20in%20doubly%20linked%20list.c) 
+      - [specified position insertion in doubly linked list.c](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Doubly%20linked%20list/delete%20/specified%20position%20delete%20in%20doubly%20linked%20list.c) 
    - ### [Traverse in doubly linked list]()
  - ### [circular linked list]()
    - ### [Insertion]()
