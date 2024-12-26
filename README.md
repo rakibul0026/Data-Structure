@@ -60,7 +60,7 @@
         -  [insertion in specific location](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/circular%20linked%20%20list/Insertion/insertion%20in%20specific%20location.cpp)
         -  [End insertion](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/circular%20linked%20%20list/Insertion/End%20insertion.cpp)
           
-   - ### [delete]()
+   - ### [delete](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/circular%20linked%20%20list/Delete)
        -  [delete first .c]()
        -  [delete in specified.c]()
        -  [Delete at last.c]()
