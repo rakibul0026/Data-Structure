@@ -134,7 +134,7 @@
      - [Deleting in BST](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/Binary%20search%20Tree(BST)/Deleting%20in%20BST.cpp)
   - ### [Heap Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Heap%20Tree)
       - [insertion in Heap Tree](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/Heap%20Tree/insertion%20in%20Heap%20Tree.cpp)
-     - [Deletion in Heap]()
+     - [Deletion in Heap](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/Heap%20Tree/insertion%20in%20Heap%20Tree.cpp)
      
   - ### [Threaded Binary Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Threaded%20Binary%20Tree)
   - ### [m-Array Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/m_Array%20Tree)
