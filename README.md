@@ -117,7 +117,7 @@
       - [5.iterative preorder traversal of binary tree using one stack in c](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/1.Traversal%20Using%20Stack/5.iterative%20preorder%20traversal%20of%20binary%20tree%20using%20one%20stack%20in%20c.c )
   - ### [AVL Search Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/AVL%20Search%20Tree)
   - ### [B Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/B%20Tree)
-  - ### [Binary Tree](#)
+  - ### [Binary Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Binary%20Tree)
   - ### [Binary Search Tree (BST)](#)
   - ### [Heap Tree](#)
   - ### [Threaded Binary Tree](#)
