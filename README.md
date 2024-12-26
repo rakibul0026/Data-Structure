@@ -81,7 +81,7 @@
      
 ## [stacks,queues,Recursion.cpp](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp)  
 - ### [Deques](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Deques)  
-- ### [Priority Queues](#)  
+- ### [Priority Queues](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Priority%20Queues)  
 - ### [QUEUES](#)  
 - ### [Recursion](#)  
 - ### [Transforming Expression](#)  
