@@ -103,7 +103,7 @@
      - [Postfix to infix](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/Transforming%20Expression/Postfix%20to%20infix.cpp)
      - [infix to postfix](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/Transforming%20Expression/infix%20to%20postfix.cpp)
 - ### [stacks](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/stacks)
-    - [Pop]()
+    - [Pop](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/stacks/Pop.cpp)
     - [Push]()
     - [pop operation implement in LInked List]()
     - [push implement using LInked list]()
