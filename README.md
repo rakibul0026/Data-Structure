@@ -125,7 +125,7 @@
     - [Deleting in B Tree.cpp]()
   - ### [Binary Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Binary%20Tree)
      - [Binary tree traversing Using Linked list](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/Binary%20Tree/Binary%20tree%20traversing%20Using%20Linked%20list.cpp)
-     - [Height of Binary tree]()
+     - [Height of Binary tree](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/Binary%20Tree/Height%20of%20Binary%20tree.c)
      - [Traversing using array]()
   - ### [Binary Search Tree (BST)](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Binary%20search%20Tree(BST))
   - ### [Heap Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Heap%20Tree)
