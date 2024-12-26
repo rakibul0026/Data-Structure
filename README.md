@@ -91,7 +91,7 @@
      - [circular queue implement in linked list](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES/circular%20queue%20/circular%20queue%20implement%20in%20%20linked%20list.c)
      - [circular queue implement using array](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES/circular%20queue%20/circular%20queue%20implement%20using%20array.c)
    - [Queue Delete using array](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES/Queue%20Delete%20using%20array%20.c)
-    - [Queue deleting implement in Linked list]()
+    - [Queue deleting implement in Linked list](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES/Queue%20deleting%20implement%20in%20Linked%20list.c)
    - [Queue insert Using array]()
    - [queue insert implement in Linked list]()
 - ### [Recursion](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Recursion)  
