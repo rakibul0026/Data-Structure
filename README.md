@@ -89,7 +89,7 @@
 - ### [QUEUES](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES)
   - #### [Circular QUEUES](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES/circular%20queue%20)
      - [circular queue implement in linked list]()
-     - [circular queue implement using array.c]()
+     - [circular queue implement using array]()
    - [Queue Delete using array]()
     - [Queue deleting implement in Linked list]()
    - [Queue insert Using array]()
