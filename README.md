@@ -49,7 +49,7 @@
      -  [last insertion in doubly linked list](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Doubly%20linked%20list/Insertion/last%20insertion%20in%20doubly%20linked%20list.c)
      -  [specified position insertion in doubly linked list](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Doubly%20linked%20list/Insertion/specified%20position%20insertion%20in%20doubly%20linked%20list.c)
     
-   - ### [delete]()
+   - ### [delete](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Doubly%20linked%20list/delete%20)
        -  []() 
    - ### [Traverse in doubly linked list]()
  - ### [circular linked list]()
