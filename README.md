@@ -110,6 +110,11 @@
 
   ## [Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree)
   - ### [1. Traversal Using Stack](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/1.Traversal%20Using%20Stack)
+      - [1.Inorder using stack]()
+      - [2.Preorder Traversal using Stack]()
+      - [3.Postorder Traversel in one Stack]()
+      - [4.iterative postorder traversal using two stacks]( )
+      - [5.iterative preorder traversal of binary tree using one stack in c]( )
   - ### [AVL Search Tree](#)
   - ### [B Tree](#)
   - ### [Binary Tree](#)
@@ -122,3 +127,12 @@
 
 
 
+1.Inorder using stack.c
+
+2.Preorder Traversal using Stack.cpp
+
+3.Postorder Traversel in one Stack.c
+
+4.iterative postorder traversal using two stacks.c
+
+5.iterative preorder traversal of binary tree using one stack in c.c
