@@ -83,7 +83,9 @@
 - ### [Deques](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Deques)
    - [Deque implement in linked list](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/Deques/Deque%20implement%20in%20linked%20list.c)
    - [deque implement circular array](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/Deques/deque%20implement%20circular%20array.c)  
-- ### [Priority Queues](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Priority%20Queues)  
+- ### [Priority Queues](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Priority%20Queues)
+   - [Priority Queue implement array]()
+    - [Priority Queue implement in Linked list.c]() 
 - ### [QUEUES](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES)  
 - ### [Recursion](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Recursion)  
 - ### [Transforming Expression](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Transforming%20Expression)  
@@ -93,12 +95,11 @@
 
 
 
-..
-Deque implement in linked list.c
-Rename Deque implement in linked list.cpp to Deque implement in linke…
-4 months ago
-deque implement circular array.c
 
+
+Priority Queue implement array.c
+
+Priority Queue implement in Linked list.c
 
 
 
