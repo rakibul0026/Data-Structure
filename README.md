@@ -142,8 +142,3 @@
 
 
 
-
-..
-Deletion in Heap.cpp
-
-insertion in Heap Tree.cpp
