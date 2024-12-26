@@ -45,6 +45,10 @@
    - ### [Traversing](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Singly%20linked%20list/Traversing.c)
  - ### [Doubly linked list](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/Doubly%20linked%20list)
    - ### [Insertion]()
+     -  [Begin insertion in doubly linked list.c]()
+     -  [last insertion in doubly linked list.c]()
+     -  [specified position insertion in doubly linked list.c]()
+      -  []() 
    - ### [delete]()
    - ### [Traverse in doubly linked list]()
  - ### [circular linked list]()
@@ -65,7 +69,14 @@
    - ### [Selection Sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/Selection%20Sort.cpp)
    - ### [counting sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/counting%20sort.cpp)
 
-
+..
+Begin insertion in doubly linked list.c
+Rename Begin insertion in doubly linked list.cpp to Begin insertion i…
+5 months ago
+last insertion in doubly linked list.c
+Rename last insertion in doubly linked list.cpp to last insertion in …
+5 months ago
+specified position insertion in doubly linked list.c
 
 
 
