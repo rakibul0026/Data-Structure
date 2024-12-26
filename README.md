@@ -85,7 +85,7 @@
 - ### [QUEUES](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES)  
 - ### [Recursion](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Recursion)  
 - ### [Transforming Expression](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Transforming%20Expression)  
-- ### [stacks](#)
+- ### [stacks](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/stacks)
 
 
 
