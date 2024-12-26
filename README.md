@@ -61,6 +61,9 @@
         -  [End insertion](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/circular%20linked%20%20list/Insertion/End%20insertion.cpp)
           
    - ### [delete]()
+       -  [delete first .c]()
+       -  [delete in specified.c]()
+       -  [Delete at last.c]()
    - ### [Traversing_a_circular_linked_list](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/circular%20linked%20%20list/Traversing_a_circular_linked_list.c)
 ## [Sorting](https://github.com/rakibul0026/Data-Structure/tree/main/Sorting)
 
@@ -78,12 +81,8 @@
 
 
 
-End insertion.cpp
 
 
-insertion at first.cpp
-
-insertion in specific location.cpp
 
 
 
