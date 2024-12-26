@@ -56,7 +56,7 @@
    - ### [Traverse in doubly linked list](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/Doubly%20linked%20list/Traverse%20in%20doubly%20linked%20list.c)
  - ### [circular linked list](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/circular%20linked%20%20list)
    - ### [Insertion](https://github.com/rakibul0026/Data-Structure/tree/main/Linked_list/circular%20linked%20%20list/Insertion)
-        -  [insertion at first]()
+        -  [insertion at first](https://github.com/rakibul0026/Data-Structure/blob/main/Linked_list/circular%20linked%20%20list/Insertion/insertion%20at%20first.cpp)
         -  [insertion in specific location]()
         -  [End insertion]()
           
