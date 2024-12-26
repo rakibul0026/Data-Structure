@@ -121,18 +121,10 @@
   - ### [Binary Search Tree (BST)](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Binary%20search%20Tree(BST))
   - ### [Heap Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Heap%20Tree)
   - ### [Threaded Binary Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Threaded%20Binary%20Tree)
-  - ### [m-Array Tree](#)
+  - ### [m-Array Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/m_Array%20Tree)
 
 
 
 
 
-1.Inorder using stack.c
 
-2.Preorder Traversal using Stack.cpp
-
-3.Postorder Traversel in one Stack.c
-
-4.iterative postorder traversal using two stacks.c
-
-5.iterative preorder traversal of binary tree using one stack in c.c
