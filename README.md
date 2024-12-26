@@ -104,7 +104,3 @@
 
 
 
-
-circular queue implement in linked list.c
-
-circular queue implement using array.c
