@@ -80,7 +80,9 @@
    - ### [counting sort](https://github.com/rakibul0026/Data-Structure/blob/main/Sorting/counting%20sort.cpp)
      
 ## [stacks,queues,Recursion.cpp](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp)  
-- ### [Deques](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Deques)  
+- ### [Deques](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Deques)
+   - [Deque implement in linked list.c]()
+   - [deque implement circular array.c]()  
 - ### [Priority Queues](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Priority%20Queues)  
 - ### [QUEUES](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES)  
 - ### [Recursion](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Recursion)  
@@ -91,7 +93,11 @@
 
 
 
-
+..
+Deque implement in linked list.c
+Rename Deque implement in linked list.cpp to Deque implement in linke…
+4 months ago
+deque implement circular array.c
 
 
 
