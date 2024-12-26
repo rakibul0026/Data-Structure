@@ -130,11 +130,7 @@
   - ### [m-Array Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/m_Array%20Tree)
 
 ..
-Deleting in B Tree.cpp
 
-insertion.cpp
-
-searching.cpp
 
 
 
