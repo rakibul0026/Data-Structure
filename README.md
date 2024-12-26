@@ -128,7 +128,7 @@
      - [Height of Binary tree](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/Binary%20Tree/Height%20of%20Binary%20tree.c)
      - [Traversing using array](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/Binary%20Tree/Traversing%20using%20array.cpp)
   - ### [Binary Search Tree (BST)](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Binary%20search%20Tree(BST))
-     - [Insertion in BST]()
+     - [Insertion in BST](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/Binary%20search%20Tree(BST)/Insertion%20in%20BST.cpp)
      - [Iterative Search in a Binary Search Tree]()
      - [Search in BST]()
      - [Deleting in BST.cpp]()
