@@ -110,7 +110,7 @@
 
   ## [Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree)
   - ### [1. Traversal Using Stack](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/1.Traversal%20Using%20Stack)
-      - [1.Inorder using stack]()
+      - [1.Inorder using stack](https://github.com/rakibul0026/Data-Structure/blob/main/Tree/1.Traversal%20Using%20Stack/1.Inorder%20using%20stack.c)
       - [2.Preorder Traversal using Stack]()
       - [3.Postorder Traversel in one Stack]()
       - [4.iterative postorder traversal using two stacks]( )
