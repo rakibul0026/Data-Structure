@@ -81,7 +81,7 @@
      
 ## [stacks,queues,Recursion.cpp](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp)  
 - ### [Deques](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Deques)
-   - [Deque implement in linked list.c]()
+   - [Deque implement in linked list.c](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Deques)
    - [deque implement circular array.c]()  
 - ### [Priority Queues](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Priority%20Queues)  
 - ### [QUEUES](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES)  
