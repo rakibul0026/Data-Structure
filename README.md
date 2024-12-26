@@ -94,7 +94,11 @@
     - [Queue deleting implement in Linked list](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES/Queue%20deleting%20implement%20in%20Linked%20list.c)
    - [Queue insert Using array](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES/Queue%20insert%20Using%20array.c)
    - [queue insert implement in Linked list](https://github.com/rakibul0026/Data-Structure/blob/main/stacks%2Cqueues%2CRecursion.cpp/QUEUES/queue%20insert%20implement%20in%20Linked%20list.c)
-- ### [Recursion](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Recursion)  
+- ### [Recursion](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Recursion)
+    - [Factorial]()
+    - [Fibbonacci]()
+     - [Tower of Hanoi.cpp]()
+     - [ackermann_function.]()
 - ### [Transforming Expression](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/Transforming%20Expression)  
 - ### [stacks](https://github.com/rakibul0026/Data-Structure/tree/main/stacks%2Cqueues%2CRecursion.cpp/stacks)
 
