@@ -118,7 +118,7 @@
   - ### [AVL Search Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/AVL%20Search%20Tree)
   - ### [B Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/B%20Tree)
   - ### [Binary Tree](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Binary%20Tree)
-  - ### [Binary Search Tree (BST)](#)
+  - ### [Binary Search Tree (BST)](https://github.com/rakibul0026/Data-Structure/tree/main/Tree/Binary%20search%20Tree(BST))
   - ### [Heap Tree](#)
   - ### [Threaded Binary Tree](#)
   - ### [m-Array Tree](#)
