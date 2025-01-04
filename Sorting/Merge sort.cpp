@@ -1,5 +1,5 @@
 //Time Complexity:O(n log n)
-//Space complexity: 𝑂(𝑛)
+//Space complexity: 𝑂(𝑛)-->Extra Memory
 #include <iostream>
 using namespace std;
 
