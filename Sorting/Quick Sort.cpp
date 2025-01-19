@@ -1,5 +1,5 @@
-//Time Complexity:
-//Space complexity: 
+//Time Complexity:  [Worst]->O(n^2)  , [average,best]->O(nlogn)
+//Space complexity: o(1)
 #include <iostream>
 using namespace std;
 
