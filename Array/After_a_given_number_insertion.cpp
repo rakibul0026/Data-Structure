@@ -14,7 +14,7 @@ void After_insert(int arr[],int n,int value,int num){
       }
      }
      if(pos==-1){
-        cout<<"the number is not foun in this array"<<endl;
+        cout<<"the number is not found in this array"<<endl;
         return ;
      }
     for(int i=n-1;i>pos;i--){
